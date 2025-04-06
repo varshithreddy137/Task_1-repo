@@ -1,21 +1,20 @@
 # Task_1 
-It was a great learning experience working on this task. I learned so much, especially by figuring out how to do certain things on my own. If I didn’t know something, especially in C, I tried to understand how it works and why it works that way. Overall, the experience of completing Task 1 was very fulfilling.
+Working on Task 1 was truly a great learning experience for me. It pushed me out of my comfort zone and gave me an opportunity to explore and understand new concepts that I might not have encountered otherwise. One of the biggest takeaways from this task was learning how to approach problems independently. Whenever I came across a concept I didn't know—especially in C programming—I didn’t just skip it or give up. Instead, I took it as a challenge to research, read, and understand how things actually work behind the scenes. This process not only improved my technical skills but also made me more confident in my ability to figure things out on my own.
 
-##Challenges Faced:
+Challenges Faced
+One of the major challenges I faced during this task was my lack of familiarity with certain programming languages and commands. There were moments where I felt stuck and unsure of how to proceed. But instead of depending entirely on AI tools, I made a conscious effort to limit my usage and focus more on self-learning. I did use AI occasionally, but only to understand the logic or the structure of certain solutions. It felt incredibly rewarding to learn something new and then apply it successfully in solving a problem.
 
-I struggled with some programming concepts and didn't know certain things, which led me to research and learn about them. I limited myself from using AI too much, but used it occasionally to understand concepts better. It felt great to learn something new through that process.
+My Approach
+I began the task by attempting the Light Dose questions, thinking they would be simple. But to my surprise, they required a deeper understanding than I initially expected. I had to spend several days just learning and practicing Linux commands and understanding the logic behind them. The resources provided were very helpful, and I made the most of them to build my foundation.
 
-##Approach:
+Once I completed the Light Dose, I moved on to the Medium Dose questions. These were definitely more challenging, requiring me to think critically and deeply understand the problem statements. Despite the difficulty, I enjoyed working on them. Every time I successfully solved one, it gave me a real sense of accomplishment.
 
-I started with the Light Dose questions, assuming they would be easy—but I quickly realized they weren’t as simple as I thought. I learned most of the Linux commands from the given links, and this part actually took me the most time.
+Finally, I attempted a Hard Dose question. I was only able to solve one, but that one question gave me more satisfaction than all the others combined. It made me realize that even if a problem seems difficult, with the right mindset and effort, I can tackle it. Unfortunately, I wasn’t able to solve the other hard dose questions, mainly because I’m not familiar with Python yet. One of the questions also left me completely blank—I couldn’t figure out where to even start. That’s when I decided: I will start learning Python soon. I believe it will open up many more opportunities for me in programming.
 
-Next, I worked on the Medium Dose questions. These were a bit difficult, but I felt very happy after solving them. They weren’t extremely hard, but required a lot of thinking and understanding of the questions.
+Resources Used
+Throughout this task, my main resource was Google Search. I relied on it heavily to look up unfamiliar concepts, understand syntax, and read about how different commands and programs work. It helped me discover new websites, forums, and articles that enriched my understanding. It’s amazing how much you can learn just by being curious and willing to dig deeper.
 
-Finally, I attempted a Hard Dose question. I was only able to do one, but it gave me a great sense of accomplishment. I couldn’t do the rest because I don’t know Python yet, and for one of the questions, I couldn’t figure out the logic. I’m planning to learn Python soon—I believe it will help me a lot.
 
-##Resources Used:
-
-I mostly used Google Search to understand new things and concepts. It really helped me learn a lot.
 
 Thank you, MaRS Team!
 Looking forward to learning more!
